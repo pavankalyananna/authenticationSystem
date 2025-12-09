@@ -12,7 +12,7 @@ Key Features
 6) Error Handling: Clear responses for invalid credentials, expired tokens, and unauthorised access.
 
 Technologies Used :
-Back-end :             Spring Boot, Spring Security
-Authentication:    JWT
-Database:             MySQL, Hibernate ORM
-Tools:                    Maven, Postman
+Back-end :  Spring Boot, Spring Security ,
+Authentication:    JWT ,
+Database:  MySQL, Hibernate ORM ,
+Tools:  Maven, Postman
